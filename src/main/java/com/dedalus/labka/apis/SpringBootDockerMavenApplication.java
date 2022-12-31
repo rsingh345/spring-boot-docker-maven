@@ -11,5 +11,9 @@ public class SpringBootDockerMavenApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootDockerMavenApplication.class, args);
 	}
+	
+	public String message() {
+		return "rakesh";
+	}
 
 }
