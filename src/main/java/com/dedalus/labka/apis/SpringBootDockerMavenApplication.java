@@ -13,7 +13,7 @@ public class SpringBootDockerMavenApplication {
 	}
 	
 	public String message() {
-		return "rakesh";
+		return "rakesh singh";
 	}
 
 }
